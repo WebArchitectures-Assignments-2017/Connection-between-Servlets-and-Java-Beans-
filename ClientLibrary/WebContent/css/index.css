@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+.container{
+	width: 100%;
+	 height:100vh;
+	 margin-top:2px;
+	
+}
+.registration{
+    float: right;
+    width: 30%;
+    border: 2px solid;
+    border-radius: 5px;
+    height:100vh;
+   text-align:center;
+}
+.initializeCart{
+	float: left;
+  height:100vh;
+  width: 60%;
+text-align:center;
+}

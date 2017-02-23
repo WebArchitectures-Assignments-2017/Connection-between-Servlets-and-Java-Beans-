@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+header {
+	    text-align: right;
+	    border: 2px solid;
+	    border-radius: 5px;
+}
